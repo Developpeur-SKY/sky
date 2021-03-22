@@ -88,7 +88,8 @@
       <!-- end header -->
       <section >
          <div class="banner-main">
-            <img src="images/banner.jpg" alt="#"/>
+
+            <div><img src="images/banner.jpg" alt="#"/></div>
             <div class="container">
                <div class="text-bg">
                   <h1>Sky<br><strong class="white">Trip Planner</strong></h1>
@@ -132,37 +133,93 @@
             </div>
          </div>
       </section>
-      <!-- about -->
-      <div id="about" class="about">
+      <!--Tours -->
+      <div class="Tours">
          <div class="container">
             <div class="row">
-               <div class="col-md-12 ">
+               <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>About  our travel agency</h2>
-                     <span> fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</span>
+                     <h2>Voyagez Local</h2>
+                     <span>Passez un séjour près de chez vous ne signifie pas de passer de moins bon moments.<br/>
+                        Séléctionnez un hébergement unique pour un voyage inoubliable. 
+                     </span> 
                   </div>
                </div>
             </div>
-         </div>
-         <div class="bg">
-            <div class="container">
+            <section id="demos">
                <div class="row">
-                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                     <div class="about-box">
-                        <p> <span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure thereThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there</span></p>
-                        <div class="palne-img-area">
-                           <img src="images/plane-img.png" alt="images">
+                  <div class="col-md-12">
+                     <div class="owl-carousel owl-theme">
+                        <div class="item">
+                           <img class="img-responsive" src="images/1.jpg" alt="#" />
+                           <h3>Holiday Tour</h3>
+                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/2.jpg" alt="#" />
+                           <h3>New York</h3>
+                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/3.jpg" alt="#" />
+                           <h3>London</h3>
+                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/2.jpg" alt="#" />
+                           <h3>Holiday Tour</h3>
+                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
                         </div>
                      </div>
                   </div>
                </div>
-            </div>
-            <a href="#">Read More</a>
+            </section>
          </div>
       </div>
-      <!-- end about -->
+      <!-- end Tours -->
+      <!--Tours -->
+      <div class="Tours mt-5">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage">
+                     <h2>Quel hébergement vous ferai plaisir ?</h2>
+                  </div>
+               </div>
+            </div>
+            <section id="demos">
+               <div class="row">
+                  <div class="col-md-12">
+                     <div id="categ" class="owl-carousel owl-theme">
+                        <div class="item">
+                           <img class="img-responsive" src="images/1.jpg" alt="#" />
+                           <h3>Holiday Tour</h3>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/2.jpg" alt="#" />
+                           <h3>New York</h3>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/3.jpg" alt="#" />
+                           <h3>London</h3>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/2.jpg" alt="#" />
+                           <h3>Holiday Tour</h3>
+                        </div>
+                        <div class="item">
+                           <img class="img-responsive" src="images/2.jpg" alt="#" />
+                           <h3>Holiday Tour</h3>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </div>
+      </div>
+      <!-- end Tours -->
       <!-- traveling -->
-      <div id="travel" class="traveling">
+      <div id="travel" class="traveling mt-5">
          <div class="container">
             <div class="row">
                <div class="col-md-12 ">
@@ -217,6 +274,35 @@
          </div>
       </div>
       <!-- end traveling -->
+      <!-- about -->
+      <div id="about" class="about">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12 ">
+                  <div class="titlepage">
+                     <h2>About  our travel agency</h2>
+                     <span> fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</span>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="bg">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                     <div class="about-box">
+                        <p> <span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure thereThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there</span></p>
+                        <div class="palne-img-area">
+                           <img src="images/plane-img.png" alt="images">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <a href="#">Read More</a>
+         </div>
+      </div>
+      <!-- end about -->
       <!--London -->
       <div class="London">
          <div class="container">
@@ -236,48 +322,7 @@
          </div>
       </div>
       <!-- end London -->
-      <!--Tours -->
-      <div class="Tours">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <h2>The Best Tours</h2>
-                     <span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</span> 
-                  </div>
-               </div>
-            </div>
-            <section id="demos">
-               <div class="row">
-                  <div class="col-md-12">
-                     <div class="owl-carousel owl-theme">
-                        <div class="item">
-                           <img class="img-responsive" src="images/1.jpg" alt="#" />
-                           <h3>Holiday Tour</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
-                        </div>
-                        <div class="item">
-                           <img class="img-responsive" src="images/2.jpg" alt="#" />
-                           <h3>New York</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
-                        </div>
-                        <div class="item">
-                           <img class="img-responsive" src="images/3.jpg" alt="#" />
-                           <h3>London</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
-                        </div>
-                        <div class="item">
-                           <img class="img-responsive" src="images/2.jpg" alt="#" />
-                           <h3>Holiday Tour</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in soe suffk even slightly believable. If y be sure there</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
-         </div>
-      </div>
-      <!-- end Tours -->
+      
       <!-- Amazing -->
       <div class="amazing">
          <div class="container">
@@ -408,6 +453,7 @@
       <script src="js/custom.js"></script>
       <!-- javascript --> 
       <script src="js/owl.carousel.js"></script>
+      
       <script>
          $(document).ready(function() {
            var owl = $('.owl-carousel');
@@ -424,10 +470,32 @@
                },
                1000: {
                  items: 3
-               }
+               },
              }
            })
          })
+      </script>
+
+       <script>
+         $('#categ').owlCarousel({
+         loop:true,
+         margin:10,
+         nav:true,
+         responsive:{
+            0:{
+                  items:1
+            },
+            600:{
+                  items:2
+            },
+            1000:{
+                  items:3
+            },
+            1300:{
+                  items:4
+            }
+         }
+      });
       </script>
      
    </body>
