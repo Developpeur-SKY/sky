@@ -47,9 +47,9 @@
                      <div class="col-md-12">
                         <div class="header_information">
                            <ul>
-                              <li><img src="images/1.png" alt="#"/> 145.street road new York</li>
-                              <li><img src="images/2.png" alt="#"/> +71  5678954378</li>
-                              <li><img src="images/3.png" alt="#"/> Demo@hmail.com</li>
+                              <li><img src="images/1.png" alt="#"/> Ajouter Votre etablissment</li>
+                              <li><img src="images/2.png" alt="#"/> S'inscrire</li>
+                              <li><img src="images/3.png" alt="#"/> Se connecter</li>
                            </ul>
                         </div>
                      </div>
@@ -70,11 +70,11 @@
                         <div class="limit-box">
                            <nav class="main-menu">
                               <ul class="menu-area-main">
-                                 <li class="active"> <a href="#">Home</a> </li>
-                                 <li> <a href="#about">About</a> </li>
-                                 <li><a href="#travel">Travel</a></li>
-                                 <li><a href="#blog">Blog</a></li>
-                                 <li><a href="#contact">Contact Us</a></li>
+                                 <li class="active"> <a href="#">Hotels</a> </li>
+                                 <li> <a href="#about">Vols</a> </li>
+                                 <li><a href="#travel">Locations saisonnières</a></li>
+                                 <li><a href="#blog">Location de Voitures</a></li>
+                                 <li><a href="#contact">Sorties</a></li>
                               </ul>
                            </nav>
                         </div>
@@ -91,8 +91,8 @@
             <img src="images/banner.jpg" alt="#"/>
             <div class="container">
                <div class="text-bg">
-                  <h1>America<br><strong class="white">Amazing Tour</strong></h1>
-                  <div class="button_section"> <a class="main_bt" href="#">Read More</a>  </div>
+                  <h1>Sky<br><strong class="white">Trip Planner</strong></h1>
+                <!--   <div class="button_section"> <a class="main_bt" href="#">Read More</a>  </div> -->
                   <div class="container">
                      <form class="main-form">
                         <h3>Find Your Tour</h3>
@@ -100,34 +100,26 @@
                            <div class="col-md-9">
                               <div class="row">
                                  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Keywords</label>
+                                    <label >Où allez vous ? </label>
                                     <input class="form-control" placeholder="" type="text" name="">
                                  </div>
                                  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Category</label>
-                                    <select class="form-control" name="Any">
-                                       <option>Any</option>
-                                       <option>Option 1</option>
-                                       <option>Option 2</option>
-                                       <option>Option 3</option>
+                                    <label >Arrivée</label>
+                                    <input class="form-control" placeholder="" type="date" name="">
+                                 </div>
+                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                                    <label> Départ </label>
+                                    <input class="form-control" type="date" name="00.0">
+                                 </div>
+                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                                    <label> Voyageurs</label>
+                                    <select class="form-control">
+                                    <option>adulte</option>
+                                    <option>enfant </option>
+                                 
                                     </select>
                                  </div>
-                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Min Price</label>
-                                    <input class="form-control" placeholder="00.0" type="text" name="00.0">
-                                 </div>
-                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Duration</label>
-                                    <input class="form-control" placeholder="Any" type="text" name="Any">
-                                 </div>
-                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Date</label>
-                                    <input class="form-control" placeholder="Any" type="date" name="Any">
-                                 </div>
-                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
-                                    <label >Max Price</label>
-                                    <input class="form-control" placeholder="00.0" type="text" name="00.0">
-                                 </div>
+                               
                               </div>
                            </div>
                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
